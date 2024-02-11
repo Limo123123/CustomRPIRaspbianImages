@@ -39,9 +39,9 @@ Or the Pi Imager (Not Recommended but shouldt work to)
 Raspberry Pi -Yes- But only 64 Bit Pis (U.S.W. 3, 3B+,4,5)
 Banana Pi -Yes- (I dont have One)  
 Poato -I think- (I dont have One)
-Orange Pi -I think- Pi 5 (I dont have One)
-...
-Is based on Debian, Raspbian 64 Bit aarch64
+Orange Pi -I think- (I dont have One)...
+
+Is based on Debian, Raspbian 64 Bit arm64
 
 
 
@@ -52,3 +52,8 @@ Because its Customized.
 To Becom the Official Image use Raspberry Pi Imager
 Here the link to it
 https://www.raspberrypi.com/software/
+
+# News
+We work at the moment at a deb Package that Installs the limonr command.
+We will make a apt repo where you can download it with the package name: limosubsystem
+PS: We have a Repository on Github for the Limo Subsystem
