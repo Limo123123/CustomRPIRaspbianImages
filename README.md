@@ -54,6 +54,9 @@ Here the link to it
 https://www.raspberrypi.com/software/
 
 # News
-We work at the moment at a deb Package that Installs the limonr command.
+~~We work at the moment at a deb Package that Installs the limonr command.
 We will make a apt repo where you can download it with the package name: limosubsystem
-PS: We have a Repository on Github for the Limo Subsystem
+PS: We have a Repository on Github for the Limo Subsystem~~
+Nope, its ready! I created a APT Reprository and the package is to ready!
+I Say one thing: We will add this apt into this Image!
+Curl installer is in make for this.
